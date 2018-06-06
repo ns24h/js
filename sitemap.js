@@ -3,6 +3,7 @@
 // Url: https://vietblogdao.blogspot.com
 // Source: http://www.mybloggerlab.com
 // ---------------------------------------------------
+
 // global arrays
    var postTitle = new Array();     // array of posttitles
    var postUrl = new Array();       // array of posturls
